@@ -3,13 +3,13 @@
 
 Provides code to efficiently read WAV headers with dynamic memory allocation, as well as apply an optional sound effect to specific types of WAV files (i.e. uncompressed, 2 channel, &amp; PCM format)
 
-# Notes (or To-Do)
+## Notes (or To-Do)
 
 - [ ] Add more sound effects
 - [ ] Make code more readable
 - [ ] Add a buffer
 
-# Instalization
+## Instalization
 
 No real installs, all provided c libraries used. Just open up the code to get some use out of it!
 
