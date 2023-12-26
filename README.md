@@ -3,7 +3,7 @@
 
 Provides code to efficiently read WAV headers with dynamic memory allocation, as well as apply an optional sound effect to specific types of WAV files (i.e. uncompressed, 2 channel, &amp; PCM format)
 
-## Notes (or To-Do)
+## Todo
 
 - [ ] Add more sound effects
 - [ ] Make code more readable
@@ -21,5 +21,6 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 ## License
+
 [MIT License](https://choosealicense.com/licenses/mit/)
 
